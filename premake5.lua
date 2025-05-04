@@ -25,7 +25,7 @@ defines "_DEBUG"
 filter "configurations:release"
 runtime "Release"
 optimize "Speed"
-symbols "On"
+symbols "Off"
 defines "NDEBUG"
 
 filter "system:windows"
